@@ -1,0 +1,21 @@
+{
+  "job": {
+    "id": 12,
+    "source": "greenhouse",
+    "company": "airbnb",
+    "title": "Communications Intern, France",
+    "location": "Paris, France",
+    "url": "https://careers.airbnb.com/positions/7573845?gh_jid=7573845",
+    "description": ""
+  },
+  "profile_id": 1,
+  "matched_keywords": [],
+  "missing_keywords": [],
+  "tailored_bullets_used": [
+    "Built and maintained end-to-end data pipelines across cloud and big data platforms.",
+    "Implemented data quality checks and monitoring to improve pipeline reliability.",
+    "Delivered dashboards and reporting that supported operational decision-making."
+  ],
+  "apply_url": "https://careers.airbnb.com/positions/7573845?gh_jid=7573845",
+  "note": "This tool generates documents and tracking data. Submit applications manually on the job site."
+}
