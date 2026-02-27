@@ -129,14 +129,9 @@ Output folder:
 
 ---
 
-## Next upgrades (optional)
-- Add OpenAI scoring & cover-letter generation (optional; requires API key)
+## Next upgrades 
+- Add scoring & cover-letter generation (optional; requires API key)
 - Add Workday “public postings” parsers for specific companies (each Workday tenant differs)
 - Add email-alert ingestion (Gmail → parse → import jobs)
 - Add UI (simple web dashboard)
 
----
-
-## Important note
-This starter is designed to be **safe and reliable**: it avoids botting, stealth, captcha solving, or auto-submitting applications.
-If you try to fully automate submissions on major job boards, you risk account locks, captchas, and ToS violations.
